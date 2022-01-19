@@ -1,0 +1,15 @@
+{
+  "name": "firebase",
+  "typo": "module",
+  "version": "1.0.0",
+  "description": "Firebase related remote management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^10.0.0"
+  }
+}
